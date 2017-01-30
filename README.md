@@ -1,6 +1,4 @@
-# CodeJam
-
-Team name: CPPV
+A optimisation algorithm that successfully assigned 392 out of 400 seats regarding different courses for 80 students with different availability.
 
 To access your schedule or your course sections, first open the "interface.py" file.
 Information corresponding to students and courses are collected in data.py.
